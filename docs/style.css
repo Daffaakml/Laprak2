@@ -1,0 +1,17 @@
+body.mode-rapih {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f9;
+    line-height: 1.6;
+}
+
+body.mode-berantakan {
+    font-family: Comic Sans MS, cursive;
+    color: yellow;
+    background-color: rgb(42, 7, 109);
+    line-height: 1.2;
+}
+
+h1, h2, h3 {
+    cursor: pointer;
+}
